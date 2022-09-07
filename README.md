@@ -3,7 +3,7 @@
 
   ## Description
   
- readme generator
+ readme
   
   ## Table of Contents (Optional)
 
@@ -16,12 +16,12 @@
   
   ## Installation
   
-  inquirer package
+  inquirer
   
   
   ## Usage
 
-  read me
+  readme generator
   
 
       
@@ -29,7 +29,7 @@
 
   ## License
   
-  undefined
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   
   ---
   
@@ -41,6 +41,6 @@
   
   ## Tests
 
-  undefined
+  test
 
 ;
