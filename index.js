@@ -1,4 +1,5 @@
 // TODO: Include packages needed for this application
+//the below three lines are requiring the node packages that we need to use"
 const inquirer = require('inquirer')
 const fs = require('fs')
 const generateMarkdown = require('./utils/generateMarkdown')
