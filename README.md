@@ -1,9 +1,9 @@
-# homework
+# Read Me Generator
   
 
   ## Description
   
- readme
+ this is a read me generator for a bootcamp assignment
   
   ## Table of Contents (Optional)
 
@@ -16,12 +16,12 @@
   
   ## Installation
   
-  inquirer
+  install inquirer package
   
   
   ## Usage
 
-  readme generator
+  this is used for read me files we upload to our github
   
 
       
@@ -29,7 +29,7 @@
 
   ## License
   
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  [![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
   
   ---
   
@@ -37,10 +37,14 @@
   
   ## How to Contribute
 
-  phil
+  Phil Loy
   
   ## Tests
 
-  test
+  testing
 
+  ##Question
+
+  lilianki,
+  yejean831@gmail.com
 ;
