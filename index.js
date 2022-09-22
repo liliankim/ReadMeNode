@@ -6,6 +6,8 @@ const generateMarkdown = require('./utils/generateMarkdown')
 
 
 // TODO: Create an array of questions for user input
+//the below lines are the "inquirer" questions that show up on the command line
+
 const questions = [
     {
         type: 'input',
