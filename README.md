@@ -1,9 +1,9 @@
-# Read Me Generator
+# read me generator homework
   
 
   ## Description
   
- this is a read me generator for a bootcamp assignment
+ this uses the node inquirer package to generate a read me
   
   ## Table of Contents (Optional)
 
@@ -16,12 +16,12 @@
   
   ## Installation
   
-  install inquirer package
+  require inquirer node package
   
   
   ## Usage
 
-  this is used for read me files we upload to our github
+  inquirer prompt will ask questions on the command line to complete a read me file
   
 
       
@@ -37,14 +37,14 @@
   
   ## How to Contribute
 
-  Phil Loy
+  Phil Loy - tutor
   
   ## Tests
 
-  testing
+  you can test this by entering information on the command line prompts
 
   ##Question
 
-  lilianki,
+  liliankim
   yejean831@gmail.com
 ;
